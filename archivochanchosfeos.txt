@@ -1,3 +1,8 @@
 chanchito malo
 chancho malo
+<<<<<<< HEAD
 chancho lindo
+=======
+chanchito feliz
+chanchote
+>>>>>>> ramab
